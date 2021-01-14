@@ -1,6 +1,6 @@
 ## Control Panel    (CONTROL.EXE)
 
-Control Panel: rundll32.exe shell32.dll,Control_RunDLL
+Control Panel: `rundll32.exe shell32.dll,Control_RunDLL`
 
 
 
